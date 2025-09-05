@@ -1,0 +1,12 @@
+{
+  "name": "problem-01",
+  "version": "1.0.0",
+  "description": "This is Problem-01 of NodeJS-Bootcamp Day-02",
+  "license": "ISC",
+  "author": "Vishal Kapgate",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
