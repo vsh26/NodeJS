@@ -1,0 +1,2 @@
+# Node modules (ignore everywhere in repo)
+**/node_modules/
