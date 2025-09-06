@@ -10,6 +10,8 @@
 📦 NodeJS 
 |-- 001-Bootcamp-Day-01               # Basics, User input (prompt-sync)
 |-- 002-Bootcamp-Day-02               # nodemon, Core modules (fs, os), import, export, lodash
+|-- 003-Bootcamp-Day-03               # JSON, Web server with Express.js, Routes, Endpoints, APIs
+|-- 004-Bootcamp-Day-04               # Databases, MongoDB, MongoDB server, Queries, Postman 
 |-- .gitignore                        # gitignore file
 
 ```
@@ -54,6 +56,10 @@ Here are some of the best resources I studied from:
 - [os](https://nodejs.org/docs/latest/api/os.html)
 - [lodash](https://www.npmjs.com/package/lodash)
 - [lodash Documentation](https://lodash.com/docs/4.17.15)
+- [express](https://www.npmjs.com/package/express)
+- [Install MongoDB Community Edition on Ubuntu](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/)
+- [Download and Install Compass](https://www.mongodb.com/docs/compass/install/?operating-system=linux&package-type=.deb)
+- [mongoose](https://www.npmjs.com/package/mongoose)
 
 
 ## 📬 Connect with Me  
